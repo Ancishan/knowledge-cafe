@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co/2P1THsM/smiley-woman-talking-phone-medium-shot.jpg",
+        "title": "The Mystery of Midnight Manor",
+        "author": "Shanto dev",
+        "author_img": "https://i.ibb.co/d0Bhgd6/shanto-1.jpg",
+        "posted_date": "2024-03-14",
+        "hashtags": ["mystery", "thriller", "suspense"],
+        "reading_time_minutes": 21 
+    },
+    {
+        "id": 2,
+        "cover": "https://i.ibb.co/2P1THsM/smiley-woman-talking-phone-medium-shot.jpg",
+        "title": "Echoes of dev",
+        "author": "Annto Parker",
+        "author_img": "https://i.ibb.co/d0Bhgd6/shanto-1.jpg",
+        "posted_date": "2024-03-12",
+        "hashtags": ["fantasy", "magic", "adventure"],
+        "reading_time_minutes": 22
+    },
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co/2P1THsM/smiley-woman-talking-phone-medium-shot.jpg",
+        "title": "Beyond the Horizon",
+        "author": "Maria Rodriguez",
+        "author_img": "https://i.ibb.co/d0Bhgd6/shanto-1.jpg",
+        "posted_date": "2024-03-10",
+        "hashtags": ["sci_fi", "space", "exploration"],
+        "reading_time_minutes": 24 
+    }
+]
